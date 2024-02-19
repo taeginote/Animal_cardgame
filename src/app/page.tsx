@@ -8,7 +8,7 @@ export default function Home() {
 			<div className="mb-8 text-6xl text-white">동물 카드게임</div>
 			<Image src={tigerImg} className="mb-4" alt="tigerImg" />
 			<h3 className=" border-solid border-2 border-amber-400 px-8 py-4 rounded-full hover:bg-amber-400">
-				<Link href="/play">게임하러가기</Link>
+				<Link href="/play">게임하러가기3313122</Link>
 			</h3>
 		</div>
 	)
